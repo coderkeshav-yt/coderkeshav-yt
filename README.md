@@ -8,7 +8,7 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/keshav-singh-4757b9369/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:coderkeshavyt@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="[YOUR_PORTFOLIO_URL](https://web-dev-portfolio-dun.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
+    <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
   </p>
 
   <p align="center">
@@ -75,7 +75,20 @@ I'm a passionate Full Stack Developer who loves to create innovative solutions a
 
 </div>
 
-## 📈 GitHub Activity
+## � Featured Projects
+
+<div align="center">
+
+| Project | Live Link |
+| :--- | :--- |
+| 🌿 **Natural Puff** | [Visit Website](https://www.naturalpuff.com/) |
+| ⚛️ **The Curious Physicist** | [Visit Website](https://the-curious-physicist.vercel.app) |
+| 🏋️ **Be in Shape** | [Visit Website](https://www.beinshapegym.com/) |
+| 🛡️ **Cybrida** | [Visit Website](https://www.cybrida.in/) |
+
+</div>
+
+## �📈 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=coderkeshav-yt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="200"/>
@@ -92,7 +105,7 @@ I'm a passionate Full Stack Developer who loves to create innovative solutions a
 
 ```text
 JavaScript   █████████████░░░░░   65.52 % 
-React        ████████░░░░░░░░░░   45.23 % 
+React        ██████████░░░░░░░░   55.23 % 
 TypeScript   ██████░░░░░░░░░░░░   35.85 % 
 CSS          ████░░░░░░░░░░░░░░   25.42 % 
 Other        ██░░░░░░░░░░░░░░░░   15.25 % 
