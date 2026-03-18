@@ -85,9 +85,9 @@ I'm a passionate Full Stack Developer who loves to create innovative solutions a
 | ⚛️ **The Curious Physicist** | <a href="https://the-curious-physicist.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit The Curious Physicist"/></a> |
 | 🏋️ **Be in Shape** | <a href="https://www.beinshapegym.com/" target="_blank"><img src="https://img.shields.io/badge/Visit_Website-E4405F?style=for-the-badge&logo=firefox&logoColor=white" alt="Visit Be in Shape"/></a> |
 | 🛡️ **Cybrida** | <a href="https://www.cybrida.in/" target="_blank"><img src="https://img.shields.io/badge/Visit_Website-00b4d8?style=for-the-badge&logo=microsoftedge&logoColor=white" alt="Visit Cybrida"/></a> |
+| 📚 **SyncStudy** | <a href="https://syncstudy.in/" target="_blank"><img src="https://img.shields.io/badge/Visit_Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit SyncStudy"/></a> |
 
 </div>
-
 ## �📈 GitHub Activity
 
 <div align="center">
