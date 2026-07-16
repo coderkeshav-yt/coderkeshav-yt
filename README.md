@@ -82,19 +82,6 @@ I'm a Full Stack Developer & AI Enthusiast who loves building intelligent, data-
 
 </div>
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Live Link |
-| :--- | :--- | :--- |
-| 🌿 **Natural Puff** | E-commerce platform with AI recommendations | <a href="https://www.naturalpuff.com/" target="_blank"><img src="https://img.shields.io/badge/Visit-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Natural Puff"/></a> |
-| ⚛️ **The Curious Physicist** | AI-enhanced educational platform | <a href="https://the-curious-physicist.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit The Curious Physicist"/></a> |
-| 🏋️ **Be in Shape** | Smart fitness tracking with AI insights | <a href="https://www.beinshapegym.com/" target="_blank"><img src="https://img.shields.io/badge/Visit-E4405F?style=for-the-badge&logo=firefox&logoColor=white" alt="Visit Be in Shape"/></a> |
-| 🛡️ **Cybrida** | AI-powered cybersecurity dashboard | <a href="https://www.cybrida.in/" target="_blank"><img src="https://img.shields.io/badge/Visit-00b4d8?style=for-the-badge&logo=microsoftedge&logoColor=white" alt="Visit Cybrida"/></a> |
-| 📚 **SyncStudy** | Collaborative learning with AI tutors | <a href="https://syncstudy.in/" target="_blank"><img src="https://img.shields.io/badge/Visit-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit SyncStudy"/></a> |
-
-</div>
 
 ## 📊 GitHub AI Activity Matrix
 
