@@ -31,7 +31,6 @@ I'm a Full Stack Developer & AI Enthusiast who loves building intelligent, data-
 - 🌱 Constantly learning — currently diving deep into AI/ML integration
 - 💡 Love collaborating on AI-infused open source projects
 - 🎯 Building tools that make developers smarter & faster
-- ⚡ Fun fact: I've tried making an AI write poetry about my code 🎵
 
 ## 🤖 AI & Innovation
 
@@ -39,12 +38,6 @@ I'm a Full Stack Developer & AI Enthusiast who loves building intelligent, data-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderkeshav-yt&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8" alt="Most Used Languages" />
 </div>
 
-- 🤖 Build AI-powered chatbots and intelligent assistants
-- 🧠 Integrate LLMs (GPT, Claude, Llama) into web applications
-- 📊 Develop smart data visualization and analytics dashboards
-- 🔮 Experiment with computer vision and NLP models
-- ⚡ Create AI-driven automation tools and pipelines
-- 🚀 Deploy AI models at scale with modern cloud infrastructure
 
 ## 💻 Tech Stack & AI Toolbox
 
@@ -125,17 +118,7 @@ LLM APIs / LangChain     ██░░░░░░░░░░░░░░░░ 
   </a>
 </div>
 
-## 📈 AI Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderkeshav-yt&theme=tokyo-night&hide_border=true&bg_color=0D1117&custom_title=AI%20Inspired%20Contribution%20Graph" alt="Contribution Graph" width="100%"/>
-</div>
-
-## 💭 AI Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
 
 ---
 
