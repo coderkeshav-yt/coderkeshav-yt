@@ -32,7 +32,6 @@ I'm a Full Stack Developer & AI Enthusiast who loves building intelligent, data-
 - 💡 Love collaborating on AI-infused open source projects
 - 🎯 Building tools that make developers smarter & faster
 
-## 🤖 AI & Innovation
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderkeshav-yt&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8" alt="Most Used Languages" />
