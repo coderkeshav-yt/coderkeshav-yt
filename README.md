@@ -96,12 +96,12 @@ I'm a Full Stack Developer & AI Enthusiast who loves building intelligent, data-
 ## 📊 Weekly Development & AI Breakdown
 
 ```text
-JavaScript / TypeScript   ██████████████░░░   70.52 % 
-Python  (AI/ML)          ████████░░░░░░░░░░   45.23 % 
-React / Next.js          ██████░░░░░░░░░░░░   35.85 % 
-TensorFlow / PyTorch     ████░░░░░░░░░░░░░░   22.42 % 
-CSS / Tailwind           ███░░░░░░░░░░░░░░░   18.25 % 
-LLM APIs / LangChain     ██░░░░░░░░░░░░░░░░   12.85 % 
+JavaScript / TypeScript  ████████████████░░░░  80.52 %
+Python (AI/ML)           █████████████░░░░░░░  65.23 %
+React / Next.js          ████████████░░░░░░░░  60.00 %
+TensorFlow / PyTorch     ████░░░░░░░░░░░░░░░░  22.42 %
+CSS / Tailwind           ███████████░░░░░░░░░  55.00 %
+LLM APIs / LangChain     ██░░░░░░░░░░░░░░░░░░  12.85 %
 ```
 
 ## 🌐 Connect With Me
