@@ -122,16 +122,4 @@ LLM APIs / LangChain     ██░░░░░░░░░░░░░░░░�
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,6,12,24&height=120&section=footer"/>
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+intelligent+together!;AI+%2B+Web+%3D+The+Future+%F0%9F%9A%80" alt="Thanks" />
-</div>
-
-<div align="center">
-  <sub>🤖 Powered by AI creativity & ❤️ for code — because the best apps aren't just smart, they learn.</sub>
-</div>
-
-⭐️ From [coderkeshav-yt](https://github.com/coderkeshav-yt) with 💖 
